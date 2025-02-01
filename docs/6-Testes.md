@@ -1,18 +1,12 @@
 # Introdução
 
 Breve descrição da aplicação testada e do objetivo do teste.
-````diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-````diff
-- EXEMPLO
 
-O sistema testado foi um site de compras de eletrônicos. 
-O objetivo era avaliar se os usuários conseguiam navegar facilmente pelas categorias de produtos e finalizar uma compra sem dificuldades. 
+````diff
+@@ EXEMPLO @@
+
+- O sistema testado foi um site de compras de eletrônicos. 
++ O objetivo era avaliar se os usuários conseguiam navegar facilmente pelas categorias de produtos e finalizar uma compra sem dificuldades. 
 ````
 
 # Problema
