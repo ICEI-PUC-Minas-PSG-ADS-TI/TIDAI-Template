@@ -57,15 +57,25 @@ Tópicos a serem apresentados na DATA marcada no CRONOGRAMA.
 
 ## 2ª Apresentação de Slides (ORAL) MEIO DO PROJETO - FASE DE DESENVOLVIMENTO
 
-* Resumo dos principais achados do teste.
-* Exibição de métricas e feedbacks relevantes.
-* Conclusões e sugestões para melhorias futuras.
+* INTRODUÇÃO (Problema que o site resolve, Público-alvo e Objetivo do software)
+* DEMONSTRAÇÃO DO SOFTWARE (demonstrar as telas do site que já foram desenvolvidas)
+* RESULTADOS DO TESTE DE USABILIDADE (Resumo dos principais achados e descobertas; Problemas identificados e aspectos positivos do sistema)
+* MÉTRICAS E FEEDBACKS DOS USUÁRIOS (Dados quantitativos sobre o desempenho do site; Opiniões dos testadores sobre a experiência de uso; Exibição de métricas e feedbacks relevantes)
+* CONCLUSÕES E MELHORIAS FUTURAS (descrever os Principais aprendizados do processo de testes e Sugestões para aprimoramento e próximos passos) 
+
 
 ## 3ª Apresentação de Slides (ORAL) FIM DO PROJETO - FASE DE ENTREGA
 
-* Resumo dos principais achados do teste.
-* Exibição de métricas e feedbacks relevantes.
-* Conclusões e sugestões para melhorias futuras.
+* INTRODUÇÃO e CONTEXO DO PROJETO (Relembrar o problema que o software resolve )
+* DEMONSTRAÇÃO COMPLETA DO SOFTWARE (Apresentação do site funcionando, Fluxo de navegação e principais funcionalidades e Funcionalidades Implementadas)
+    --> IMPORTANTE dizer qual foi a contribuição de cada membro.
+* DIFERENCIAIS E MELHORIAS FEITAS (O que foi aprimorado desde a última apresentação?, Recursos extras ou otimizações realizadas)
+* Testes e Resultados Obtidos (Resumo dos testes realizados (usabilidade e/ou outros caso tenham feito); Principais problemas encontrados e como foram solucionados;
+Métricas e Feedbacks)
+* CONCLUSÕES E PRÓXIMOS PASSOS (O software está pronto para uso?; Possíveis melhorias futuras e expansões)
+* AGRADECIMENTO (slide de encerramento com agradecimento) 
+  
+
 
 ## Histórico de versões 
 
