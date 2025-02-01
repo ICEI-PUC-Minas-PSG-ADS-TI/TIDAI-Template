@@ -12,7 +12,7 @@ _ _ O objetivo era avaliar se os usuários conseguiam navegar facilmente pelas c
 
 Explicação sobre os participantes, cenários e tarefas utilizadas.
 
-'#0969DA'Exemplo: 
+**<span style="color: blue;">Exemplo </span>**
 _ _Participaram do teste cinco usuários com perfis variados, incluindo um usuário iniciante em tecnologia. 
 Foram propostas tarefas como: criar uma conta, buscar um produto específico e concluir uma compra. _ _
 
