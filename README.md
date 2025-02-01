@@ -42,12 +42,32 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 <li><a href="src/README.md"> Código Fonte</a></li>
 
-# Apresentação
+# Apresentação Oral do Projeto
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+## 1ª Apresentação de Slides (ORAL) INICIO DO PROJETO - FASE DE PLANEJAMENTO
 
+Tópicos a serem apresentados na DATA marcada no CRONOGRAMA.
+* INTRODUÇÃO (Problema que o site resolve, Público-alvo e Objetivo do software)
+* FUNCIONALIDADES PRINCIPAIS (Listagem e busca de produtos, Carrinho de compras, Cadastro de usuários e login)
+* TECNOLOGIAS UTILIZADAS (Frontend (Ex.: React, Vue, HTML/CSS); Backend (Ex.: Node.js, Django, Laravel); Banco de Dados (Ex.: MySQL, MongoDB))
+* ARQUITETURA DO SOFTWARE (Opcional)
+* WIREFRAME (das telas do site)
+* DIFERENCIAIS E BENEFÍCIOS (O que torna o site competitivo?; Facilidade de uso, segurança, personalização etc.)
+* PRÓXIMOS PASSOS (Funcionalidades futuras; Cronograma de finalização)
 
-## Histórico de versões
+## 2ª Apresentação de Slides (ORAL) MEIO DO PROJETO - FASE DE DESENVOLVIMENTO
+
+* Resumo dos principais achados do teste.
+* Exibição de métricas e feedbacks relevantes.
+* Conclusões e sugestões para melhorias futuras.
+
+## 3ª Apresentação de Slides (ORAL) FIM DO PROJETO - FASE DE ENTREGA
+
+* Resumo dos principais achados do teste.
+* Exibição de métricas e feedbacks relevantes.
+* Conclusões e sugestões para melhorias futuras.
+
+## Histórico de versões 
 
 * 0.1.1
     * CHANGE: Atualização das documentações. Código permaneceu inalterado.
