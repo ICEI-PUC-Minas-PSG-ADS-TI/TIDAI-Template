@@ -63,7 +63,10 @@ Destaque das principais dificuldades enfrentadas.
 ````diff
 @@ EXEMPLO @@
 ````
-
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
     Tarefa        |            Expectativa                   |                                Realidade
 ----------------- | -----------------------------------------|---------------------------------------------------------------------------
