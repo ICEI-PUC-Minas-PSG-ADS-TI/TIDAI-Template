@@ -1,7 +1,13 @@
 # Introdução
 
 Breve descrição da aplicação testada e do objetivo do teste.
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+
+- texto em vermelho
++ texto em verde
+! texto em laranja
+# texto em cinza
+@@ texto em roxo (e negrito)@@
 
 '#0969DA'Exemplo: 
 
