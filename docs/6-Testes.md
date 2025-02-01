@@ -63,7 +63,8 @@ Destaque das principais dificuldades enfrentadas.
 ````diff
 @@ EXEMPLO @@
 
-````
 ![Comparação entre expectativa e realidade em cada tarefa](./images/Tabela_comparacao.png)
+
+````
 
 
