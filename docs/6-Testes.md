@@ -46,6 +46,6 @@ Destaque das principais dificuldades enfrentadas.
 
 '#0969DA'Exemplo:
 
- ![Comparação entre expectativa e realidade em cada tarefa](./images/Tabela_Comparacao.png)
+ ![Comparação entre expectativa e realidade em cada tarefa](./images/Tabela_comparacao.png)
 
 
