@@ -63,16 +63,13 @@ Destaque das principais dificuldades enfrentadas.
 ````diff
 @@ EXEMPLO @@
 ````
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| Tarefa          |  Expectativa                           |  Realidade                                                                 |
+|-----------------|----------------------------------------|----------------------------------------------------------------------------|
+|Criar conta      | Processo simples, em até 2 minutos     | Um usuário levou mais de 5 minutos devido à falta de instruções claras     |
+Buscar produto    | Encontro rápido com filtros eficientes | Dois participantes tiveram dificuldades para encontrar a categoria correta |
+Finalizar compra  | Processo intuitivo                     | Três usuários não localizaram o botão de finalização                       |
 
-    Tarefa        |            Expectativa                   |                                Realidade
------------------ | -----------------------------------------|---------------------------------------------------------------------------
-Criar conta       | Processo simples, em até 2 minutos       | Um usuário levou mais de 5 minutos devido à falta de instruções claras
-Buscar produto    | Encontro rápido com filtros eficientes   | Dois participantes tiveram dificuldades para encontrar a categoria correta
-Finalizar compra  | Processo intuitivo                       | Três usuários não localizaram o botão de finalização 
+
 
 
 
