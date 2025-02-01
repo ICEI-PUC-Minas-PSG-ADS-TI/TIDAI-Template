@@ -13,9 +13,13 @@ Breve descrição da aplicação testada e do objetivo do teste.
 
 Explicação sobre os participantes, cenários e tarefas utilizadas.
 
-**<span style="color: blue;">Exemplo </span>**
-_ _Participaram do teste cinco usuários com perfis variados, incluindo um usuário iniciante em tecnologia. 
-Foram propostas tarefas como: criar uma conta, buscar um produto específico e concluir uma compra. _ _
+````diff
+@@ EXEMPLO @@
+
+- Participaram do teste cinco usuários com perfis variados, incluindo um usuário iniciante em tecnologia. 
++ Foram propostas tarefas como: criar uma conta, buscar um produto específico e concluir uma compra. 
+````
+
 
 # Resultados
 
