@@ -1,13 +1,7 @@
 # Introdução
 
 Breve descrição da aplicação testada e do objetivo do teste.
-
-
-- texto em vermelho
-+ texto em verde
-! texto em laranja
-# texto em cinza
-@@ texto em roxo (e negrito)@@
+<code style="color : blue">text</code>
 
 '#0969DA'Exemplo: 
 
