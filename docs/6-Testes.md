@@ -46,6 +46,6 @@ Destaque das principais dificuldades enfrentadas.
 
 '#0969DA'Exemplo:
 
- ![Exemplo de Arquitetura](./images/Comparação_entre_expectativa_e_realidade_em_cada_tarefa.png)
+ ![Exemplo de Arquitetura](./images/Tabela_Comparacao.png)
 
 
