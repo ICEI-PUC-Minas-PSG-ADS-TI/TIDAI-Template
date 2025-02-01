@@ -36,7 +36,8 @@ facilitar a localização pelo usuário. _ _
 
 Vídeos curtos ou prints das interações dos usuários, ilustrando dificuldades e pontos positivos da interface.
 
-'#0969DA'Exemplo: 
+<strong><span style="color: blue;">Exemplo </span></strong>
+
 _ _Captura de tela mostrando onde os usuários esperavam encontrar o botão 'Finalizar Compra' e onde ele realmente estava._ _
 
 # Tabela comparativa (opcional):
