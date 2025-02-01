@@ -1,7 +1,13 @@
 # Introdução
 
 Breve descrição da aplicação testada e do objetivo do teste.
-<code style="color : blue">text</code>
+````diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 '#0969DA'Exemplo: 
 
