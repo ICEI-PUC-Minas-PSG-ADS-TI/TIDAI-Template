@@ -63,6 +63,8 @@ Destaque das principais dificuldades enfrentadas.
 ````diff
 @@ EXEMPLO @@
 ````
+
+
     Tarefa        |            Expectativa                   |                                Realidade
 ----------------- | -----------------------------------------|---------------------------------------------------------------------------
 Criar conta       | Processo simples, em até 2 minutos       | Um usuário levou mais de 5 minutos devido à falta de instruções claras
