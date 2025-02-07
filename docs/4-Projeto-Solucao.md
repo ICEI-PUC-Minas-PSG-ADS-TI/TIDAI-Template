@@ -7,12 +7,12 @@
 
 ......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
 
- Inclua um diagrama da solução e descreva os módulos e as tecnologias
- que fazem parte da solução. Discorra sobre o diagrama.
+ Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
  
  **Exemplo do diagrama de Arquitetura**:
  
- ![Exemplo de Arquitetura](./images/arquitetura-exemplo.png)
+ ![Exemplo de Arquitetura](./images/DR_Arquitetura.png)
+ < FONTE: https://www.researchgate.net/figure/Figura-2-Diagrama-de-arquitectura-del-sistema_fig1_361400461 
  
 
 ### 4.2. Protótipos de telas
