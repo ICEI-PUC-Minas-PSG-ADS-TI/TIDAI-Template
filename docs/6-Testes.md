@@ -1,5 +1,5 @@
 # 6. Teste de Usabilidade do Software
-<span style="color:red">Pré-requisitos: <a href="5-Interface_Sistema.md"> Interface do Sistema</a></span>
+<span style="color:red">Pré-requisitos: <a href="5-Interface-Sistema.md"> Interface do Sistema</a></span>
 
 _Visão geral da interação do usuário por meio das telas do sistema. Apresente as principais interfaces da plataforma._
 
