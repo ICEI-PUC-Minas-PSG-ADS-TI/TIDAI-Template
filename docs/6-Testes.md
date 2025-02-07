@@ -1,5 +1,9 @@
-# 6. Introdução
+# 6. Teste de Usabilidade do Software
+<span style="color:red">Pré-requisitos: <a href="5-Interface_Sistema.md"> Interface do Sistema</a></span>
 
+_Visão geral da interação do usuário por meio das telas do sistema. Apresente as principais interfaces da plataforma._
+
+## 6.1 Introdução
 Breve descrição da aplicação testada e do objetivo do teste.
 
 ````diff
@@ -9,7 +13,7 @@ Breve descrição da aplicação testada e do objetivo do teste.
 + O objetivo era avaliar se os usuários conseguiam navegar facilmente pelas categorias de produtos e finalizar uma compra sem dificuldades. 
 ````
 
-# Problema
+## 6.2 Problema
 
 Explicação sobre os participantes, cenários e tarefas utilizadas.
 
@@ -21,7 +25,7 @@ Explicação sobre os participantes, cenários e tarefas utilizadas.
 ````
 
 
-# Resultados
+## 6.3 Resultados
 
 Dados coletados, dificuldades identificadas e principais descobertas.
 
@@ -32,7 +36,7 @@ Dados coletados, dificuldades identificadas e principais descobertas.
 + O tempo médio para realizar uma compra foi de 4 minutos e 30 segundos. Dois participantes não conseguiram concluir a compra sem ajuda. 
 ````
 
-# Sugestões de melhoria 
+## 6.4 Sugestões de melhoria 
 
 Lista de recomendações para aprimoramento da aplicação.
 
@@ -44,7 +48,7 @@ Lista de recomendações para aprimoramento da aplicação.
 facilitar a localização pelo usuário.. 
 ````
 
-# Registro audiovisual (opcional)
+## 6.5 Registro audiovisual (opcional)
 
 Vídeos curtos ou prints das interações dos usuários, ilustrando dificuldades e pontos positivos da interface.
 
@@ -55,7 +59,7 @@ Vídeos curtos ou prints das interações dos usuários, ilustrando dificuldades
 ````
 
 
-# Tabela comparativa (opcional):
+## 6.7 Tabela comparativa (opcional):
 
 Comparação entre expectativa e realidade em cada tarefa.
 Destaque das principais dificuldades enfrentadas.
@@ -63,11 +67,11 @@ Destaque das principais dificuldades enfrentadas.
 ````diff
 @@ EXEMPLO @@
 ````
-| Tarefa          |  Expectativa                            |  Realidade                                                                  |
-|-----------------|-----------------------------------------|-----------------------------------------------------------------------------|
-|Criar conta      | Processo simples, em até 2 minutos      | Um usuário levou mais de 5 minutos devido à falta de instruções claras      |
-|Buscar produto    | Encontro rápido com filtros eficientes | Dois participantes tiveram dificuldades para encontrar a categoria correta |
-|Finalizar compra  | Processo intuitivo                     | Três usuários não localizaram o botão de finalização                       |
+| Tarefa           |  Expectativa                            |  Realidade                                                                  |
+|------------------|-----------------------------------------|-----------------------------------------------------------------------------|
+|Criar conta       | Processo simples, em até 2 minutos      | Um usuário levou mais de 5 minutos devido à falta de instruções claras      |
+|Buscar produto    | Encontro rápido com filtros eficientes  | Dois participantes tiveram dificuldades para encontrar a categoria correta  |
+|Finalizar compra  | Processo intuitivo                      | Três usuários não localizaram o botão de finalização                        |
 
 
 
