@@ -7,7 +7,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## 3.1 Histórias de Usuários
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+Apresente aqui as histórias de usuário que são RELEVANTES para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 ## a) Modifique o Quadro abaixo e insira as histórias de usuários para o seu projeto:
 
@@ -15,6 +15,8 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usua                | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Ad                  | Alterar permissões                 | Permitir que possam administrar contas |
 
 
 > **Links Úteis**:
@@ -25,7 +27,7 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 
-## Tarefas Técnicas (Tasks)
+## 3.2 Tarefas Técnicas (Tasks)
 
 Cada história do usuário é dividida em tarefas específicas para implementação, confome o exemplo abaixo:
 
