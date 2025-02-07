@@ -9,7 +9,7 @@
 
 **OBS:** Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-## a) Modifique o Quadro abaixo e insira as histórias de usuários para o seu projeto:
+### a) Modifique o Quadro abaixo e insira as histórias de usuários para o seu projeto:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
