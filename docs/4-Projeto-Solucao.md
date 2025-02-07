@@ -12,7 +12,8 @@
  **Exemplo do diagrama de Arquitetura**:
  
  ![Exemplo de Arquitetura](./images/DR_Arquitetura.png)
- < FONTE: https://www.researchgate.net/figure/Figura-2-Diagrama-de-arquitectura-del-sistema_fig1_361400461 
+ 
+ >FONTE: https://www.researchgate.net/figure/Figura-2-Diagrama-de-arquitectura-del-sistema_fig1_361400461 
  
 
 ### 4.2. Protótipos de telas
