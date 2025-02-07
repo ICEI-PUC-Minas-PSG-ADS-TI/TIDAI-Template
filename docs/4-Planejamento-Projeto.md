@@ -1,8 +1,8 @@
-# 4. Planejamento do Projeto
+# 2. Planejamento do Projeto
 
 > Aqui será feito o gerenciamento das tarefas de implementação do projeto.
 
-## 4.1. Divisão de Papéis
+## 2.1. Divisão de Papéis
 
 > Apresente a divisão de papéis entre os membros do grupo em cada sprint. O desejável é que, em cada sprint, o aluno assuma papéis diferentes na disciplina. Siga o modelo do exemplo abaixo:
 
@@ -31,7 +31,7 @@
 - Testes: AlunaZ
 
   
-## 4.2. Quadro de tarefas
+## 2.2. Quadro de tarefas
 
 > Apresente a divisão de tarefas entre os membros do grupo e o acompanhamento da execução, conforme exemplo abaixo.
 
