@@ -1,4 +1,4 @@
-# Especificações do Projeto
+# 3. Especificações do Projeto
 
 <span style="color:red">Pré-requisitos: <a href="01-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
@@ -6,10 +6,10 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
-## Histórias de Usuários
+## 3.1 Histórias de Usuários
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-## 1) Modifique o Quadro abaixo e insira as histórias de usuários para o seu projeto:
+## a) Modifique o Quadro abaixo e insira as histórias de usuários para o seu projeto:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
@@ -38,7 +38,7 @@ Cada história do usuário é dividida em tarefas específicas para implementaç
                    Tratar erros de login: Implementar a lógica que exibe mensagens de erro caso nome e senha incorretos.
 
 
-## 2) Para cada história do usuário o grupo deverá criar as tarefas técnicas conforme o exemplo acima.  
+## b) Para cada história do usuário o grupo deverá criar as tarefas técnicas conforme o exemplo acima.  
 
 ## Requisitos
 
@@ -77,7 +77,7 @@ característica alvo da sua solução. Além disso, certifique-se de que
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 
-## 4) Modifique os Quadros abaixo e insira as Restrições para o seu projeto:
+## c) Modifique os Quadros abaixo e insira as Restrições para o seu projeto:
 
 
 ## Restrições
