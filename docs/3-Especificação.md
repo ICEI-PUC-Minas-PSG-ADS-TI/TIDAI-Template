@@ -15,8 +15,10 @@ OBS: Se possível, agrupe as histórias de usuário por contexto, para facilitar
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usua                | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Ad                  | Alterar permissões                 | Permitir que possam administrar contas |
+|  xxxx              | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|  yyy               | Alterar permissões                 | Permitir que possam administrar contas |
+
+
 
 
 > **Links Úteis**:
@@ -27,42 +29,10 @@ OBS: Se possível, agrupe as histórias de usuário por contexto, para facilitar
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 
-## 3.2 Tarefas Técnicas (Tasks)
-
-Cada história do usuário é dividida em tarefas específicas para implementação, confome o exemplo abaixo:
-
-## História de Usuário: 
-                     Como cliente, eu quero fazer login no sistema para acessar meu perfil.
-
-## As tarefas técnicas referente a história podem ser:
-                   Criar a interface de login: Implementar a página com os campos de nome de usuário e senha.
-                   Criar validação de entradas: Implementar a verificação de que o usuário inseriu o nome e a senha corretos.
-                   Tratar erros de login: Implementar a lógica que exibe mensagens de erro caso nome e senha incorretos.
-
-
-## b) Para cada história do usuário o grupo deverá criar as tarefas técnicas conforme o exemplo acima.  
-
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
 
 
 
-## 3) Modifique os Quadros abaixo e insira os Requisitos Funcionais e Não Funcionais para o seu projeto: Lembre-se de classificá-los em relação a prioridade se é ALTA, MÉDIA ou BAIXA. 
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito                  | Prioridade |
-|------|-----------------------------------------|------------|
-|RF-001| Permitir que o usuário cadastre tarefas |    ALTA    | 
-|RF-002| Emitir um relatório de tarefas no mês   |    MÉDIA   |
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito                                            |Prioridade |
-|-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel |    MÉDIA  | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             |    BAIXA  | 
+## 3.2 Classificação dos Requisitos Funcionais x Requisitos não Funcionais 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -79,6 +49,26 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
 Lembre-se que cada requisito deve corresponder à uma e somente uma
 característica alvo da sua solução. Além disso, certifique-se de que
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+
+
+Modifique os Quadros abaixo e insira os Requisitos Funcionais e Não Funcionais para o seu projeto: Lembre-se de classificá-los em relação a prioridade se é ALTA, MÉDIA ou BAIXA. 
+
+### Requisitos Funcionais
+
+|ID    | Descrição do Requisito                  | Prioridade |
+|------|-----------------------------------------|------------|
+|RF-001| Permitir que o usuário cadastre tarefas |    ALTA    | 
+|RF-002| Emitir um relatório de tarefas no mês   |    MÉDIA   |
+
+
+### Requisitos não Funcionais
+
+|ID     | Descrição do Requisito                                            |Prioridade |
+|-------|-------------------------------------------------------------------|-----------|
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel |    MÉDIA  | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s             |    BAIXA  | 
+
+
 
 
 ## c) Modifique os Quadros abaixo e insira as Restrições para o seu projeto:
