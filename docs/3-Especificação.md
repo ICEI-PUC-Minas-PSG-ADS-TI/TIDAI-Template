@@ -46,8 +46,9 @@
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 
-### a) Modifique os quadros abaixo, inserindo os Requisitos Funcionais e Não Funcionais do seu projeto. Lembre-se de classificá-los de acordo com a prioridade: ALTA, MÉDIA ou BAIXA.
+### a) Modifique os quadros abaixo, inserindo os Requisitos Funcionais e Não Funcionais do seu projeto. 
 
+Lembre-se de classificá-los de acordo com a prioridade: ALTA, MÉDIA ou BAIXA.
 
 ### Requisitos Funcionais
 
