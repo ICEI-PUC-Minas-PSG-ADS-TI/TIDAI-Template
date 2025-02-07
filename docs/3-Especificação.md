@@ -1,7 +1,5 @@
 # 3. Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="01-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição das histórias de usuários, dos requisitos funcionais e não funcionais além das restrições do projeto.
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
@@ -48,21 +46,23 @@ Cada história do usuário é dividida em tarefas específicas para implementaç
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
 
-## 3) Modifique os Quadros abaixo e insira os Requisitos Funcionais e Não Funcionais para o seu projeto:
+
+
+## 3) Modifique os Quadros abaixo e insira os Requisitos Funcionais e Não Funcionais para o seu projeto: Lembre-se de classificá-los em relação a prioridade se é ALTA, MÉDIA ou BAIXA. 
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID    | Descrição do Requisito                  | Prioridade |
+|------|-----------------------------------------|------------|
+|RF-001| Permitir que o usuário cadastre tarefas |    ALTA    | 
+|RF-002| Emitir um relatório de tarefas no mês   |    MÉDIA   |
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|ID     | Descrição do Requisito                                            |Prioridade |
+|-------|-------------------------------------------------------------------|-----------|
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel |    MÉDIA  | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s             |    BAIXA  | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
