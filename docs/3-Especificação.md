@@ -9,7 +9,7 @@
 
 **OBS:** Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-### a) Modifique o Quadro abaixo e insira as histórias de usuários para o seu projeto:
+### a) Modifique o Quadro abaixo e insira as histórias de usuários para o seu projeto.
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
@@ -46,7 +46,8 @@
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 
-Modifique os Quadros abaixo e insira os Requisitos Funcionais e Não Funcionais para o seu projeto: Lembre-se de classificá-los em relação a prioridade se é ALTA, MÉDIA ou BAIXA. 
+### a) Modifique os quadros abaixo, inserindo os Requisitos Funcionais e Não Funcionais do seu projeto. Lembre-se de classificá-los de acordo com a prioridade: ALTA, MÉDIA ou BAIXA.
+
 
 ### Requisitos Funcionais
 
@@ -65,20 +66,18 @@ Modifique os Quadros abaixo e insira os Requisitos Funcionais e Não Funcionais 
 
 
 
-
-## c) Modifique os Quadros abaixo e insira as Restrições para o seu projeto:
-
-
-## Restrições
+### b) Modifique o Quadro abaixo e insira as Restrições para o seu projeto.
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
+
+## Restrições
 
 |ID| Restrição                                               |
 |--|---------------------------------------------------------|
 |01| O software deve ser compatível com Windows e Linux.     |
 |02| O sistema deve ser desenvolvido utilizando Java e MySQL.|
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+**Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.**
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
