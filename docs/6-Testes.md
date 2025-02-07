@@ -1,7 +1,8 @@
 # 6. Teste de Usabilidade do Software
 <span style="color:red">Pré-requisitos: <a href="5-Interface-Sistema.md"> Interface do Sistema</a></span>
 
-> Nesta seção, abordaremos a realização do teste de usabilidade do software, uma etapa fundamental no processo de desenvolvimento de sistemas. O teste de usabilidade visa avaliar a eficácia, eficiência e a satisfação do usuário ao interagir com o sistema, garantindo que a interface e as funcionalidades atendam às necessidades do público-alvo. Serão apresentados os métodos utilizados, os resultados obtidos e as melhorias implementadas com base no feedback dos usuários, com o objetivo de proporcionar uma experiência intuitiva e fluida.
+> Nesta seção, abordaremos a realização do teste de usabilidade do software, uma etapa fundamental no processo de desenvolvimento de sistemas. O teste de usabilidade visa avaliar a eficácia, eficiência e a satisfação do usuário ao interagir com o sistema, garantindo que a interface e as funcionalidades atendam às necessidades do público-alvo.
+> A professora irá fornecer um template durante a Sprint que será realizada o Teste de Usabilidade. 
 
 ## 6.1 Introdução
 Breve descrição da aplicação testada e do objetivo do teste.
