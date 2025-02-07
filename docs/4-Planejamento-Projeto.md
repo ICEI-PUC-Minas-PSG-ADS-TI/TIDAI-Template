@@ -24,7 +24,7 @@
 - Desenvolvedor _back-end_: AlunoK
 - Testes: AlunaZ
 
-  ### Sprint 4
+### Sprint 4
 - _Scrum master_: AlunaY
 - Desenvolvedor _front-end_: AlunoX
 - Desenvolvedor _back-end_: AlunoK
