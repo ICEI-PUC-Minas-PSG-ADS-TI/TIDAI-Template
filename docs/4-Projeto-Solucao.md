@@ -59,6 +59,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER�
 > - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
 
 #### 4.3.2 Esquema Relacional
+**OBS:** Se o aluno utilizar BD NoSQL, ele não precisará fazer essa parte, mas caso haja interesse basta perguntar a prof de BD NoSQL. 
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
@@ -72,7 +73,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 #### 4.3.3 Modelo Físico
 
-Insira aqui o script de criação das tabelas do banco de dados.
+Insira aqui o script de criação das tabelas do banco de dados. 
+**OBS:** Se o aluno utilizar BD NoSQL, ele derá incluir o script aqui também. 
 
 Veja um exemplo:
 
@@ -119,7 +121,7 @@ CREATE TABLE Prescricao (
 
 </code>
 
-Este script deverá ser incluído em um arquivo .sql na pasta src\bd.
+**Este script deverá ser incluído em um arquivo .sql na pasta src\bd.**
 
 
 
