@@ -1,6 +1,6 @@
 ## 4. Projeto da Solução
 
-<span style="color:red">Pré-requisitos: <a href="03-Especificação.md"> Modelagem do Processo de Negocio</a></span>
+<span style="color:red">Pré-requisitos: <a href="03-Especificação.md"> Especificação dos Requisitos</a></span>
 
 ## 4.1. Arquitetura da solução
 
