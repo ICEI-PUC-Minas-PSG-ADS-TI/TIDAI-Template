@@ -16,7 +16,7 @@
  >FONTE: https://www.researchgate.net/figure/Figura-2-Diagrama-de-arquitectura-del-sistema_fig1_361400461 
  
 
-### 4.2. Protótipos de telas
+### 4.2. Wireframes/Mockups de telas
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="03-Especificação do Projeto.md"> Especificação do Projeto</a>.
