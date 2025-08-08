@@ -10,7 +10,6 @@ Breve descrição da aplicação testada e do objetivo do teste.
 
 ````diff
 EXEMPLO
-
 - O sistema testado foi um site de compras de eletrônicos. 
 + O objetivo era avaliar se os usuários conseguiam navegar facilmente pelas categorias de produtos e finalizar uma compra sem dificuldades. 
 ````
@@ -20,8 +19,7 @@ EXEMPLO
 Explicação sobre os participantes, cenários e tarefas utilizadas.
 
 ````diff
-@@ EXEMPLO @@
-
+EXEMPLO 
 - Participaram do teste cinco usuários com perfis variados, incluindo um usuário iniciante em tecnologia. 
 + Foram propostas tarefas como: criar uma conta, buscar um produto específico e concluir uma compra. 
 ````
@@ -32,8 +30,7 @@ Explicação sobre os participantes, cenários e tarefas utilizadas.
 Dados coletados, dificuldades identificadas e principais descobertas.
 
 ````diff
-@@ EXEMPLO @@
-
+EXEMPLO
 - Dos cinco participantes, três tiveram dificuldades para encontrar o botão 'Finalizar Compra'. 
 + O tempo médio para realizar uma compra foi de 4 minutos e 30 segundos. Dois participantes não conseguiram concluir a compra sem ajuda. 
 ````
@@ -44,10 +41,11 @@ Lista de recomendações para aprimoramento da aplicação.
 
 
 ````diff
-@@ EXEMPLO @@
-
+EXEMPLO
 + Recomenda-se tornar o botão 'Finalizar Compra' mais visível, aumentar o contraste da cor e alterar seu posicionamento para
-facilitar a localização pelo usuário.. 
+facilitar a localização pelo usuário.
++ mais coisas positivas se tiver para falar sobre o teste
+- se tiver coisas negativas use o sinal (-)
 ````
 
 ## 6.5 Registro audiovisual (opcional)
@@ -55,9 +53,9 @@ facilitar a localização pelo usuário..
 Vídeos curtos ou prints das interações dos usuários, ilustrando dificuldades e pontos positivos da interface.
 
 ````diff
-@@ EXEMPLO @@
+EXEMPLO 
++ Captura de tela mostrando onde os usuários esperavam encontrar o botão 'Finalizar Compra' e onde ele realmente estava.
 
-- Captura de tela mostrando onde os usuários esperavam encontrar o botão 'Finalizar Compra' e onde ele realmente estava.
 ````
 
 
@@ -67,7 +65,7 @@ Comparação entre expectativa e realidade em cada tarefa.
 Destaque das principais dificuldades enfrentadas.
 
 ````diff
-@@ EXEMPLO @@
+EXEMPLO 
 ````
 | Tarefa           |  Expectativa                            |  Realidade                                                                  |
 |------------------|-----------------------------------------|-----------------------------------------------------------------------------|
