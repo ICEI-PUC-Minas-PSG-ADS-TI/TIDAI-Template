@@ -9,7 +9,7 @@
 Breve descrição da aplicação testada e do objetivo do teste.
 
 ````diff
-@@ EXEMPLO @@
+EXEMPLO
 
 - O sistema testado foi um site de compras de eletrônicos. 
 + O objetivo era avaliar se os usuários conseguiam navegar facilmente pelas categorias de produtos e finalizar uma compra sem dificuldades. 
