@@ -2,85 +2,94 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Planejamento-Projeto.md"> Planejamento do Projeto do Software (Cronograma) </a></span>
 
-> Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição das histórias de usuários, dos requisitos funcionais e não funcionais além das restrições do projeto.
+# 3. Especificações do Projeto
 
-> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+<span style="color:red">Pré-requisitos: <a href="2-Planejamento-Projeto.md"> Planejamento do Projeto do Software (Cronograma) </a></span>
 
-## 3.1 Histórias de Usuários
-> Apresente aqui as histórias de usuário que são RELEVANTES para o projeto de sua solução. É esperado que haja pelo menos 10 histórias de usuário, dependendo do projeto escolhido para desenvolver.
+> Nesta seção, você vai detalhar os requisitos do seu sistema e as restrições do projeto, organizando as funcionalidades e características que a solução deve ter.
 
-**OBS:** Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+---
 
-### a) Modifique o Quadro abaixo e insira as histórias de usuários para o seu projeto.
+## 3.1 Requisitos Funcionais
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|  xxxx              | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|  yyy               | Alterar permissões                 | Permitir que possam administrar contas |
+> Preencha a tabela abaixo com os requisitos funcionais que **detalham as funcionalidades que seu sistema deverá oferecer**.  
+> Cada requisito deve representar uma característica única da solução e ser claro para orientar o desenvolvimento.
 
 
+|ID     | Descrição do Requisito                                                                                            | Prioridade |
+|-------|-----------------------------------------------------------------------------------------------------------------|------------|
+|RF-01| O sistema deve permitir que os usuários criem uma conta informando nome, e-mail, senha e endereço.                | ALTA       | 
+|RF-02| O sistema deve permitir que os usuários adicionem produtos ao carrinho de compras.                                | MÉDIA      |
+|RF-03| *(Descreva aqui o requisito funcional 3 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
+|RF-04| *(Descreva aqui o requisito funcional 4 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
+|RF-05| *(Descreva aqui o requisito funcional 5 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
+|RF-06| *(Descreva aqui o requisito funcional 6 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
+|RF-07| *(Descreva aqui o requisito funcional 7 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
+|RF-08| *(Descreva aqui o requisito funcional 8 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
+|RF-09| *(Descreva aqui o requisito funcional 9 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
+|RF-10| *(Descreva aqui o requisito funcional 10 do seu sistema)*                                                       | *(Alta/Média/Baixa)*  |
 
+---
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+## 3.2 Histórias de Usuário
 
+> Cada história de usuário deve ser escrita no formato:  
+>  
+> **Como [persona], eu quero [funcionalidade], para que [benefício/motivo].**  seguindo o modelo e conceitos ensinados na disciplina de       
+> Engenharia de Requisitos.   
+---
+⚠️ **ATENÇÃO:** Escreva de forma que cada história de usuário esteja associada a um requisito funcional específico para facilitar o acompanhamento e validação. Por exemplo:
 
+> **História 1 (relacionada ao Requisito RF-001):**  
+> Como usuário, quero registrar minhas tarefas para não esquecer de fazê-las.  
+>  
+> **História 2 (relacionada ao Requisito RF-002):**  
+> Como administrador, quero alterar permissões para controlar o acesso ao sistema.  
+>  
+> Para melhor organização, as histórias podem ser agrupadas por contexto ou módulo funcional.
 
+---
 
+## 3.3 Requisitos Não Funcionais
 
-## 3.2 Classificação dos Requisitos Funcionais x Requisitos não Funcionais 
+> Preencha a tabela abaixo com os requisitos não funcionais que definem **características desejadas para o sistema que irão desenvolver**, como desempenho, segurança, usabilidade, etc.  
+> Lembre-se que esses requisitos são importantes para garantir a qualidade da solução.
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+|ID     | Descrição do Requisito                                                                              |Prioridade |
+|-------|-----------------------------------------------------------------------------------------------------|-----------|
+|RNF-01| O sistema deve carregar as páginas em até 3 segundos para garantir uma boa experiência ao usuário.  | MÉDIA     | 
+|RNF-02| O sistema deve proteger as informações dos clientes por meio de criptografia e medidas de segurança.| ALTA      | 
+|RNF-03| *(Descreva aqui o requisito não funcional 3 do seu sistema)*                                       | *(Alta/Média/Baixa)*  |
+|RNF-04| *(Descreva aqui o requisito não funcional 4 do seu sistema)*                                       | *(Alta/Média/Baixa)*  |
+|RNF-05| *(Descreva aqui o requisito não funcional 5 do seu sistema)*                                       | *(Alta/Média/Baixa)*  |
+|RNF-06| *(Descreva aqui o requisito não funcional 6 do seu sistema)*                                       | *(Alta/Média/Baixa)*  |
 
-> - **[Requisitos Funcionais (RF)]**(https://pt.wikipedia.org/wiki/Requisito_funcional): correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-> - **[Requisitos Não Funcionais (RNF)]**(https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
+---
 
-> Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+## 3.4 Restrições do Projeto
 
+> Restrições são limitações externas impostas ao projeto que devem ser rigorosamente obedecidas durante o desenvolvimento. Elas podem estar relacionadas a prazos, tecnologias obrigatórias ou proibidas, ambiente de execução, normas legais ou políticas internas da organização. Diferente dos requisitos não funcionais, que indicam características desejadas do sistema, as restrições determinam limites fixos que influenciam as decisões de projeto.
 
-### a) Modifique os quadros abaixo, inserindo os Requisitos Funcionais e Não Funcionais do seu projeto. 
+> A tabela abaixo deve ser preenchida com as restrições específicas que **impactam seu projeto**. Caso não haja alguma restrição adicional além das já listadas, mantenha a tabela conforme está.
 
-Lembre-se de classificá-los de acordo com a prioridade: ALTA, MÉDIA ou BAIXA.
+| ID  | Restrição                                                        |
+|------|-----------------------------------------------------------------|
+| 01   | O projeto deverá ser entregue até o final do semestre.          |
+| 02   | O sistema deve funcionar apenas dentro da rede interna da empresa.  |
+| 03   | O software deve ser compatível com Windows e Linux.
+| 04   | *(Descreva aqui a restrição 4 do seu projeto)*                  |
+| 05   | *(Descreva aqui a restrição 5 do seu projeto)*                  |
+| 06   | *(Descreva aqui a restrição 6 do seu projeto)*                  |
+| 07   | *(Descreva aqui a restrição 7 do seu projeto)*                  |
+| 08   | *(Descreva aqui a restrição 8 do seu projeto)*                  |
 
-### Requisitos Funcionais
+---
 
-|ID    | Descrição do Requisito                  | Prioridade |
-|------|-----------------------------------------|------------|
-|RF-001| Permitir que o usuário cadastre tarefas |    ALTA    | 
-|RF-002| Emitir um relatório de tarefas no mês   |    MÉDIA   |
+> **Links Úteis**:  
+> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)  
+> - [Requisitos funcionais e não funcionais: conceitos e exemplos](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)  
+> - [Histórias de usuários: exemplos e boas práticas](https://www.atlassian.com/br/agile/project-management/user-stories)  
 
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito                                            |Prioridade |
-|-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel |    MÉDIA  | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             |    BAIXA  | 
-
-
-
-### b) Modifique o Quadro abaixo e insira as Restrições para o seu projeto.
-
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-## Restrições
-
-|ID| Restrição                                               |
-|--|---------------------------------------------------------|
-|01| O software deve ser compatível com Windows e Linux.     |
-|02| O sistema deve ser desenvolvido utilizando Java e MySQL.|
-
-**Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.**
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
