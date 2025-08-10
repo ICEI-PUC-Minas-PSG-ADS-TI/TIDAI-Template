@@ -8,8 +8,8 @@
 
 ## 3.1 Requisitos Funcionais
 
-> Preencha a tabela abaixo com os requisitos funcionais que **detalham as funcionalidades que seu sistema deverá oferecer**.  
-> Cada requisito deve representar uma característica única da solução e ser claro para orientar o desenvolvimento.
+Preencha o Quadro abaixo com os requisitos funcionais que **detalham as funcionalidades que seu sistema deverá oferecer**.  
+Cada requisito deve representar uma característica única da solução e ser claro para orientar o desenvolvimento.
 
 
 |ID     | Descrição do Requisito                                                                                            | Prioridade |
@@ -46,9 +46,27 @@
 
 ---
 
+### ✏️ Escreva aqui as histórias de usuário do seu projeto:
+
+<div style="border: 2px dashed #999999; padding: 15px; margin: 10px 0;">
+  
+<!-- Espaço para escrever o texto -->  
+**[Escreva aqui as histórias do seu projeto]**
+
+- **História 1 (relacionada ao Requisito RF-01):** 
+
+- **História 2 (relacionada ao Requisito RF-02):** 
+
+
+
+
+</div>
+
+---
+
 ## 3.3 Requisitos Não Funcionais
 
-> Preencha a tabela abaixo com os requisitos não funcionais que definem **características desejadas para o sistema que irão desenvolver**, como desempenho, segurança, usabilidade, etc.  
+Preencha o Quadro abaixo com os requisitos não funcionais que definem **características desejadas para o sistema que irão desenvolver**, como desempenho, segurança, usabilidade, etc.  
 > Lembre-se que esses requisitos são importantes para garantir a qualidade da solução.
 
 |ID     | Descrição do Requisito                                                                              |Prioridade |
@@ -66,18 +84,18 @@
 
 > Restrições são limitações externas impostas ao projeto que devem ser rigorosamente obedecidas durante o desenvolvimento. Elas podem estar relacionadas a prazos, tecnologias obrigatórias ou proibidas, ambiente de execução, normas legais ou políticas internas da organização. Diferente dos requisitos não funcionais, que indicam características desejadas do sistema, as restrições determinam limites fixos que influenciam as decisões de projeto.
 
-> A tabela abaixo deve ser preenchida com as restrições específicas que **impactam seu projeto**. Caso não haja alguma restrição adicional além das já listadas, mantenha a tabela conforme está.
+O Quadro abaixo deve ser preenchida com as restrições específicas que **impactam seu projeto**. Caso não haja alguma restrição adicional além das já listadas, mantenha a tabela conforme está.
 
 | ID  | Restrição                                                        |
 |------|-----------------------------------------------------------------|
-| 01   | O projeto deverá ser entregue até o final do semestre.          |
-| 02   | O sistema deve funcionar apenas dentro da rede interna da empresa.  |
-| 03   | O software deve ser compatível com Windows e Linux.
-| 04   | *(Descreva aqui a restrição 4 do seu projeto)*                  |
-| 05   | *(Descreva aqui a restrição 5 do seu projeto)*                  |
-| 06   | *(Descreva aqui a restrição 6 do seu projeto)*                  |
-| 07   | *(Descreva aqui a restrição 7 do seu projeto)*                  |
-| 08   | *(Descreva aqui a restrição 8 do seu projeto)*                  |
+| R-01   | O projeto deverá ser entregue até o final do semestre.          |
+| R-02   | O sistema deve funcionar apenas dentro da rede interna da empresa.  |
+| R-03   | O software deve ser compatível com Windows e Linux.
+| R-04   | *(Descreva aqui a restrição 4 do seu projeto)*                  |
+| R-05   | *(Descreva aqui a restrição 5 do seu projeto)*                  |
+| R-06   | *(Descreva aqui a restrição 6 do seu projeto)*                  |
+| R-07   | *(Descreva aqui a restrição 7 do seu projeto)*                  |
+| R-08   | *(Descreva aqui a restrição 8 do seu projeto)*                  |
 
 ---
 
