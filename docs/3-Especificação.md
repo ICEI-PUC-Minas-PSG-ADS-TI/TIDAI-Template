@@ -2,10 +2,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Planejamento-Projeto.md"> Planejamento do Projeto do Software (Cronograma) </a></span>
 
-# 3. Especificações do Projeto
-
-<span style="color:red">Pré-requisitos: <a href="2-Planejamento-Projeto.md"> Planejamento do Projeto do Software (Cronograma) </a></span>
-
 > Nesta seção, você vai detalhar os requisitos do seu sistema e as restrições do projeto, organizando as funcionalidades e características que a solução deve ter.
 
 ---
@@ -84,12 +80,6 @@
 | 08   | *(Descreva aqui a restrição 8 do seu projeto)*                  |
 
 ---
-
-> **Links Úteis**:  
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)  
-> - [Requisitos funcionais e não funcionais: conceitos e exemplos](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)  
-> - [Histórias de usuários: exemplos e boas práticas](https://www.atlassian.com/br/agile/project-management/user-stories)  
-
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
