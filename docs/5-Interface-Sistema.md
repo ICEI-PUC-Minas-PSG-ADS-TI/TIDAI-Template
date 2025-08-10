@@ -1,4 +1,4 @@
-# 5. Projeto da Solução
+# 5. Interface do Sistema
 
 <span style="color:red">Pré-requisitos: <a href="4-Gestão-Configuração.md"> Planejamento do Projeto</a></span>
 
