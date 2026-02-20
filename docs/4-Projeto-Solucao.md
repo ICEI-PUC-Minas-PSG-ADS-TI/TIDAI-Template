@@ -1,78 +1,67 @@
 
 # 🏗️ 4. Projeto da Solução
 
-⚠️ **Importante:**  
-Esta seção é um **Documento Vivo**. Deve ser atualizada ao final de cada Sprint, refletindo exclusivamente o que já foi implementado no código.
-
-Não devem ser documentados componentes, tabelas ou funcionalidades que ainda não foram desenvolvidos.
-
----
-
-# 🔷 4.1 Arquitetura da Solução (Sprint 1 e 2)
-
-Apresente um diagrama macro demonstrando como os componentes do sistema se comunicam.
-
-A arquitetura deve evidenciar o modelo de **Fatias Verticais**, mostrando claramente o fluxo:
-
-Front-end → API (Back-end) → Banco de Dados
+> ⚠️ **Aviso aos Squads (Software House)**
+>
+> Esta seção **não deve ser preenchida integralmente antes da codificação**.
+> Trata-se de um **Documento Vivo**, que deverá ser atualizado **incrementalmente a cada Sprint**, refletindo fielmente o código real implementado.
 
 ---
 
-## 📌 Exemplo Ilustrativo de Arquitetura
+## 4.1 Arquitetura da Solução (Sprint 1 e 2)
 
-(./images/DR_Arquitetura.png)
- 
- >FONTE: https://www.researchgate.net/figure/Figura-2-Diagrama-de-arquitectura-del-sistema_fig1_361400461 
+Apresente um **diagrama macro** demonstrando como os componentes do sistema se comunicam.
+
+A arquitetura deve refletir o modelo de **fatias verticais**, evidenciando o fluxo:
+
+**Front-end → API (Back-end) → Banco de Dados**
+
+📌 O diagrama deve representar:
+- Camada de Apresentação
+- Camada de Aplicação / API
+- Camada de Persistência
+- Comunicação entre camadas
+
+### 📎 Inserir AQUI o Diagrama de Arquitetura do Projeto do Grupo
 
 
+xxxxxxx  Imagem do grupo xxxxx
 
-No exemplo acima:
 
-- O usuário interage com o Front-end
-- O Front-end consome endpoints da API
-- A API executa regras de negócio
-- A API persiste dados no Banco
+💡 Dica: Ferramentas recomendadas:
+
+          - Draw.io
+          - Lucidchart
+          - Figma
 
 ---
 
-📌 Insira abaixo o diagrama real do seu projeto:
+## 4.2 Tecnologias Utilizadas (Sprint 1)
 
-(Insira aqui a imagem do Diagrama de Arquitetura)
-
-Sugestão de ferramentas:
-- Draw.io
-- Lucidchart
-
----
-
-# 🔷 4.2 Tecnologias Utilizadas (Sprint 1)
-
-Descreva as tecnologias efetivamente adotadas pelo grupo.
-
-## 📋 Exemplo de Preenchimento
+Descreva as tecnologias, linguagens, frameworks, bibliotecas e serviços escolhidos pelo Squad.
 
 | Dimensão | Tecnologia Escolhida |
-|-----------|----------------------|
-| Banco de Dados | PostgreSQL |
-| Back-end (API) | C# (.NET 8) |
-| Front-end | React |
-| Hospedagem | Render |
-| Versionamento | GitHub + GitHub Projects |
+|----------|----------------------|
+| Banco de Dados (SGBD) | Ex: SQL Server, PostgreSQL ou MongoDB |
+| Back-end (API) | Ex: C# (.NET Core) |
+| Front-end / Mobile | Ex: HTML + CSS + JavaScript, React ou Flutter |
+| Hospedagem / Deploy | Ex: Azure, AWS, Render ou Railway |
+| Gestão e Versionamento | GitHub e GitHub Projects (Kanban) |
 
-⚠️ Utilize apenas tecnologias realmente implementadas.
+> ⚠️ **Observação:** GitHub Pages não executa back-end.
+  ⚠️ Utilize apenas tecnologias realmente implementadas.
 
 ---
 
-# 🔷 4.3 Wireframes ou Mockups (A partir da Sprint 2)
+#  4.3 Wireframes ou Mockups (A partir da Sprint 2)
 
-Apresente os protótipos das funcionalidades desenvolvidas na Sprint atual.
+Apresente os protótipos das telas (Wireframes/Mockups) apenas das funcionalidades que estão sendo implementadas na Sprint atual.
 
 Cada Wireframe ou Mockups devem estar associados a pelo menos:
 
 - Um Requisito Funcional (RF-XX)
 - Uma História de Usuário
 
----
 
 ## 📌 Exemplo Ilustrativo – Tela de Cadastro (RF-01)
 
@@ -92,88 +81,98 @@ Representação simplificada do Wireframe:
 Descrição acadêmica:
 
 A interface contempla todos os campos exigidos pelo RF-01 e permite persistência no banco após validação no backend.
+---
+### 📌 Ferramentas sugeridas:
+- Figma  
+- MarvelApp  
+- Balsamiq  
+---
+
+### 📎 Inserir AQUI Wireframes/ Mockups do Projeto de Software
+
+  xxxxxxx  Imagem do grupo xxxxx
+  
+---
+
 
 ---
 
-📌 Inserir abaixo os wireframes reais do projeto:
+## 4.4 Modelagem de Dados (Sprint 2 e 3)
 
-(Imagem ou link do Figma / Balsamiq / MarvelApp)
+O sistema exige persistência de dados.
 
----
-
-# 🔷 4.4 Modelagem de Dados (Sprint 2 e 3)
-
-A modelagem de dados deve acompanhar a evolução do sistema.
+A documentação do banco seguirá a abordagem de **entrega contínua**, sendo expandida conforme evolução do projeto.
 
 ---
 
-## 🔹 4.4.1 Script Físico (Sprint 2 – MVP)
+### 4.4.1 Script Físico (Entrega na Sprint 2 - MVP)
 
-Entregar o script físico correspondente à primeira Fatia Vertical.
+Para a primeira fatia vertical (MVP), o Squad deverá entregar o **script de criação das tabelas ou coleções utilizadas**.
 
-📁 O arquivo deve estar salvo em:
+#### 🔹 Para Banco Relacional (SQL)
 
-src/bd/
+Incluir:
 
----
+- Comandos `CREATE TABLE`
+- Definição de chave primária (PK)
+- Definição de chaves estrangeiras (FK)
 
-### 📌 Exemplo Ilustrativo (SQL)
+**Exemplo:**
 
 ```sql
 CREATE TABLE Usuario (
-    Id SERIAL PRIMARY KEY,
-    Nome VARCHAR(100) NOT NULL,
-    Email VARCHAR(150) UNIQUE NOT NULL,
-    Senha VARCHAR(255) NOT NULL,
-    Endereco VARCHAR(200)
+    Id INT PRIMARY KEY,
+    Nome VARCHAR(100),
+    Email VARCHAR(150) UNIQUE,
+    Senha VARCHAR(200)
 );
+```
 
-Descrição:
+---
 
-A tabela Usuario atende ao requisito RF-01 (Cadastro de Usuário).
-O campo Email possui restrição UNIQUE para evitar duplicidade.
+### Para Banco NoSQL
 
-🔹 4.4.2 Modelo Entidade-Relacionamento (Sprint 3 – Core)
+Incluir a estrutura dos documentos JSON (Schema).
 
-O Modelo ER deve ser gerado por Engenharia Reversa, representando exatamente o banco implementado.
+Exemplo:
 
-📌 Exemplo Conceitual Simplificado
-Usuario
--------
-Id (PK)
-Nome
-Email
-Senha
-Endereco
+{
+  "nome": "João Silva",
+  "email": "joao@email.com",
+  "senha": "hash_da_senha"
+}
 
-Pedido
--------
-Id (PK)
-Data
-UsuarioId (FK)
+###📁 Obrigatório
 
-Relacionamento:
-Usuario 1:N Pedido
+O arquivo .sql ou .js deve ser salvo na pasta: src/bd
 
-O modelo demonstra que:
+ - É permitido colar um trecho do script no README apenas para visualização rápida.
 
-Um usuário pode possuir vários pedidos.
+#### 4.4.2 Modelo Entidade-Relacionamento (Entrega na Sprint 3 - Core)
 
-O relacionamento é implementado por meio da chave estrangeira UsuarioId.
+Com o sistema evoluído, apresentar o Modelo ER completo.
 
-📌 Inserir abaixo a imagem do Modelo ER completo:
+📌 Requisitos:
 
-(Imagem do DER gerado via Engenharia Reversa)
+O diagrama deve representar fielmente o banco já implementado.
 
-Ferramentas sugeridas:
+Deve refletir exatamente o que foi criado nas Sprints 2 e 3.
 
-MySQL Workbench
+Não incluir tabelas que não existam no código.
 
-DbDesigner
+Contemplar:
 
-Lucidchart
+- Todas as entidades
+- Atributos
+- Relacionamentos
 
+Controle de acesso de usuários
 
+###📎 Inserir Modelo ER
 
+[Inserir imagem do Modelo ER aqui]
 
-
+🔧 Ferramentas Sugeridas
+- MySQL Workbench (engenharia reversa automática)
+- DbDesigner
+- Lucidchart
