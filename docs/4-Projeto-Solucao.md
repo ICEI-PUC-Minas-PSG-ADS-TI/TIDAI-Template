@@ -91,8 +91,7 @@ A interface contempla todos os campos exigidos pelo RF-01 e permite persistênci
 ### 📎 Inserir AQUI Wireframes/ Mockups do Projeto de Software
 
   xxxxxxx  Imagem do grupo xxxxx
-  
----
+
 
 
 ---
@@ -134,19 +133,22 @@ CREATE TABLE Usuario (
 
 Incluir a estrutura dos documentos JSON (Schema).
 
-Exemplo:
+**Exemplo:**
 
+```json
 {
   "nome": "João Silva",
   "email": "joao@email.com",
   "senha": "hash_da_senha"
 }
+```
 
 ###📁 Obrigatório
 
 O arquivo .sql ou .js deve ser salvo na pasta: src/bd
 
  - É permitido colar um trecho do script no README apenas para visualização rápida.
+   
 
 #### 4.4.2 Modelo Entidade-Relacionamento (Entrega na Sprint 3 - Core)
 
