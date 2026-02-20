@@ -65,8 +65,7 @@ Cada Wireframe ou Mockups devem estar associados a pelo menos:
 
 ## 📌 Exemplo Ilustrativo – Tela de Cadastro (RF-01)
 
-História associada:  
-Como usuário, quero criar uma conta para acessar o sistema.
+**História associada:** Como usuário, quero criar uma conta para acessar o sistema.
 
 Representação simplificada do Wireframe:
 
@@ -78,9 +77,8 @@ Representação simplificada do Wireframe:
 | |
 | [ Cadastrar ] |
 
-Descrição acadêmica:
+**Descrição:** A interface contempla todos os campos exigidos pelo RF-01 e permite persistência no banco após validação no backend.
 
-A interface contempla todos os campos exigidos pelo RF-01 e permite persistência no banco após validação no backend.
 ---
 ### 📌 Ferramentas sugeridas:
 - Figma  
@@ -143,14 +141,14 @@ Incluir a estrutura dos documentos JSON (Schema).
 }
 ```
 
-###📁 Obrigatório
+### 📁 Obrigatório
 
 O arquivo .sql ou .js deve ser salvo na pasta: src/bd
 
  - É permitido colar um trecho do script no README apenas para visualização rápida.
    
 
-#### 4.4.2 Modelo Entidade-Relacionamento (Entrega na Sprint 3 - Core)
+### 4.4.2 Modelo Entidade-Relacionamento (Entrega na Sprint 3 - Core)
 
 Com o sistema evoluído, apresentar o Modelo ER completo.
 
@@ -170,7 +168,7 @@ Contemplar:
 
 Controle de acesso de usuários
 
-###📎 Inserir Modelo ER
+### 📎Inserir Modelo ER
 
 [Inserir imagem do Modelo ER aqui]
 
