@@ -69,13 +69,7 @@ Cada Wireframe ou Mockups devem estar associados a pelo menos:
 
 Representação simplificada do Wireframe:
 
-| Criar Conta |
-| Nome: [] |
-| Email: [] |
-| Senha: [] |
-| Endereço: [] |
-| |
-| [ Cadastrar ] |
+![Imagem Local](TelaCadastro.png).
 
 **Descrição:** A interface contempla todos os campos exigidos pelo RF-01 e permite persistência no banco após validação no backend.
 
@@ -164,6 +158,13 @@ O arquivo .sql ou .js deve ser salvo na pasta: src/bd
 > - Restrições da plataforma
 > - Uso adequado de palavras reservadas
 >
+
+**Exemplo:**
+
+
+![Exemplo de um Diagrama Fisico](https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2021/11/09/BDB-1321-image005.png)
+
+FONTE: <https://aws.amazon.com/pt/compare/the-difference-between-logical-and-physical-data-model/>
 
 O grupo deverá gerar um diagrama físico do banco de dados (estrutura real das tabelas), evidenciando PKs, FKs e relacionamentos, conforme implementado no código.
 
