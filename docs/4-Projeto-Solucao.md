@@ -53,7 +53,7 @@ Descreva as tecnologias, linguagens, frameworks, bibliotecas e serviços escolhi
 
 ---
 
-#  4.3 Wireframes ou Mockups (A partir da Sprint 2)
+##  4.3 Wireframes ou Mockups (A partir da Sprint 2)
 
 Apresente os protótipos das telas (Wireframes/Mockups) apenas das funcionalidades que estão sendo implementadas na Sprint atual.
 
@@ -80,7 +80,7 @@ Representação simplificada do Wireframe:
 **Descrição:** A interface contempla todos os campos exigidos pelo RF-01 e permite persistência no banco após validação no backend.
 
 ---
-### 📌 Ferramentas sugeridas:
+📌 **Ferramentas sugeridas:**
 - Figma  
 - MarvelApp  
 - Balsamiq  
@@ -146,33 +146,56 @@ Incluir a estrutura dos documentos JSON (Schema).
 O arquivo .sql ou .js deve ser salvo na pasta: src/bd
 
  - É permitido colar um trecho do script no README apenas para visualização rápida.
-   
+ 
+---
+### 🗄️ 4.4.2 Representação do Modelo Físico de Dados (Entrega na Sprint 3 - Core)
 
-### 4.4.2 Modelo Entidade-Relacionamento (Entrega na Sprint 3 - Core)
 
-Com o sistema evoluído, apresentar o Modelo ER completo.
+> **Fundamentação:** Os modelos de dados físicos fornecem detalhes minuciosos que auxiliam administradores e desenvolvedores na implementação da lógica de negócios em um banco de dados real.
+> Eles incluem elementos não especificados no modelo lógico, como:
+> - Tipos de dados específicos da plataforma
+> - Restrições
+> - Índices
+> - Triggers (quando aplicável)
+> - Procedimentos armazenados (quando aplicável)
+>
+>Por representarem um banco real, devem respeitar:
+> - Convenções de nomenclatura
+> - Restrições da plataforma
+> - Uso adequado de palavras reservadas
+>
 
-📌 Requisitos:
+O grupo deverá gerar um diagrama físico do banco de dados (estrutura real das tabelas), evidenciando PKs, FKs e relacionamentos, conforme implementado no código.
 
-O diagrama deve representar fielmente o banco já implementado.
+Este modelo deve exibir:
+- Tabelas ou coleções existentes
+- Atributos com seus respectivos tipos de dados
+- Chaves Primárias (PK)
+- Chaves Estrangeiras (FK)
+- Relacionamentos entre tabelas
+- Restrições implementadas (quando aplicável)
 
-Deve refletir exatamente o que foi criado nas Sprints 2 e 3.
+---
 
-Não incluir tabelas que não existam no código.
+### 📌 Requisitos Obrigatórios
 
-Contemplar:
+- O diagrama deve representar fielmente o banco já implementado.
+- Deve refletir exatamente o que foi criado nas Sprints 2 e 3.
+- Não incluir tabelas que não existam no código.
+- Deve contemplar o controle de acesso de usuários, quando implementado.
+- Deve respeitar as convenções e restrições da plataforma utilizada.
 
-- Todas as entidades
-- Atributos
-- Relacionamentos
+---
 
-Controle de acesso de usuários
 
-### 📎Inserir Modelo ER
 
-[Inserir imagem do Modelo ER aqui]
+### 📎 Inserir AQUI o Modelo Físico de Dados
 
-🔧 Ferramentas Sugeridas
+
+xxxxxxx  Imagem do grupo xxxxx
+
+---
+🔧**Ferramentas Sugeridas**
 - MySQL Workbench (engenharia reversa automática)
 - DbDesigner
 - Lucidchart
