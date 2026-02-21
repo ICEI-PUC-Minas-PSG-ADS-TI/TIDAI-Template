@@ -1,5 +1,5 @@
 
-# 🏗️ 4. Projeto da Solução
+# 4. Projeto da Solução
 
 > ⚠️ **Aviso aos Squads (Software House)**
 >
@@ -22,17 +22,15 @@ A arquitetura deve refletir o modelo de **fatias verticais**, evidenciando o flu
 - Camada de Persistência
 - Comunicação entre camadas
 
-### 📎 Inserir AQUI o Diagrama de Arquitetura do Projeto do Grupo
+### 📎 Inserir o Diagrama de Arquitetura do Projeto do Grupo
+🚨 O grupo deverá inserir aqui a imagem
 
 
-xxxxxxx  Imagem do grupo xxxxx
-
-
-💡 Dica: Ferramentas recomendadas:
-
-          - Draw.io
-          - Lucidchart
-          - Figma
+---
+🔧**Ferramentas recomendadas:**
+- Draw.io
+- Lucidchart
+- Figma
 
 ---
 
@@ -48,8 +46,9 @@ Descreva as tecnologias, linguagens, frameworks, bibliotecas e serviços escolhi
 | Hospedagem / Deploy | Ex: Azure, AWS, Render ou Railway |
 | Gestão e Versionamento | GitHub e GitHub Projects (Kanban) |
 
-> ⚠️ **Observação:** GitHub Pages não executa back-end.
-  ⚠️ Utilize apenas tecnologias realmente implementadas.
+ ⚠️ **Observação:**
+ - GitHub Pages não executa back-end.
+ - Utilize apenas tecnologias realmente implementadas.
 
 ---
 
@@ -69,12 +68,12 @@ Cada Wireframe ou Mockups devem estar associados a pelo menos:
 
 Representação simplificada do Wireframe:
 
-![Imagem Local](docs/images/TelaCadastro.png)
+<img src="images/TelaCadastro.png" width="80%">
 
 **Descrição:** A interface contempla todos os campos exigidos pelo RF-01 e permite persistência no banco após validação no backend.
 
 ---
-📌 **Ferramentas sugeridas:**
+🔧 **Ferramentas sugeridas:**
 - Figma  
 - MarvelApp  
 - Balsamiq  
@@ -82,7 +81,7 @@ Representação simplificada do Wireframe:
 
 ### 📎 Inserir AQUI Wireframes/ Mockups do Projeto de Software
 
-  xxxxxxx  Imagem do grupo xxxxx
+🚨 O grupo deverá inserir aqui a imagem
 
 
 
@@ -156,17 +155,16 @@ O arquivo .sql ou .js deve ser salvo na pasta: src/bd
 >Por representarem um banco real, devem respeitar:
 > - Convenções de nomenclatura
 > - Restrições da plataforma
-> - Uso adequado de palavras reservadas
->
+> - Uso adequado de palavras reservadas <br>
+
 
 **Exemplo:**
 
+<img src="https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2021/11/09/BDB-1321-image005.png" width="85%">
 
-![Exemplo de um Diagrama Fisico](https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2021/11/09/BDB-1321-image005.png)
+**FONTE:** <https://aws.amazon.com/pt/compare/the-difference-between-logical-and-physical-data-model/>
 
-FONTE: <https://aws.amazon.com/pt/compare/the-difference-between-logical-and-physical-data-model/>
-
-O grupo deverá gerar um diagrama físico do banco de dados (estrutura real das tabelas), evidenciando PKs, FKs e relacionamentos, conforme implementado no código.
+<br>O grupo deverá gerar um diagrama físico do banco de dados (estrutura real das tabelas), evidenciando PKs, FKs e relacionamentos, conforme implementado no código.
 
 Este modelo deve exibir:
 - Tabelas ou coleções existentes
@@ -188,12 +186,8 @@ Este modelo deve exibir:
 
 ---
 
-
-
-### 📎 Inserir AQUI o Modelo Físico de Dados
-
-
-xxxxxxx  Imagem do grupo xxxxx
+### 📎 Representação do Modelo Físico de Dados
+🚨 O grupo deverá inserir aqui a imagem do diagrama físico de dados.
 
 ---
 🔧**Ferramentas Sugeridas**
