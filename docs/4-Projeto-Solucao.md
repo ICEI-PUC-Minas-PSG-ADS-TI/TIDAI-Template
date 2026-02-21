@@ -69,7 +69,7 @@ Cada Wireframe ou Mockups devem estar associados a pelo menos:
 
 Representação simplificada do Wireframe:
 
-![Imagem Local](TelaCadastro.png).
+![Imagem Local](TelaCadastro.png)
 
 **Descrição:** A interface contempla todos os campos exigidos pelo RF-01 e permite persistência no banco após validação no backend.
 
