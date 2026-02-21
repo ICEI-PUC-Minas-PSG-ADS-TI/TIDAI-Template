@@ -1,0 +1,3 @@
+git add imagem/TelaCadastro.png
+git commit -m "Adicionando imagem na pasta imagem"
+git push
