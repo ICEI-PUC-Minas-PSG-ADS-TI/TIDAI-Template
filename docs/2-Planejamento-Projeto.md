@@ -1,24 +1,24 @@
-# 📌 2. Planejamento do Projeto
+# 2. Planejamento do Projeto
 
 Esta seção apresenta como o grupo organizará o trabalho ao longo do semestre.  
 O projeto adota uma metodologia ágil, simulando o ambiente de uma Software House.
 
 ---
 
-## 🚨 Regra de Ouro
+### 🚨 Regra de Ouro: 
 
-> ❗ Não existe divisão entre “quem faz documento”, “quem faz Front-end” e “quem faz Back-end”.
+> ❗Não existe divisão entre “quem faz documento”, “quem faz Front-end” e “quem faz Back-end”.
 
-Todos os integrantes são **Desenvolvedores Full-Stack** e devem implementar **Fatias Verticais (Vertical Slices)**.
+<br>Todos os integrantes são **Desenvolvedores Full-Stack** e devem implementar **Fatias Verticais (Vertical Slices)**.
 
 ✔️ Cada membro deve entregar a funcionalidade completa:  
 **Banco de Dados → API → Tela**
 
 ---
 
-# 🚀 2.1 Sprints do Projeto
+# 2.1 Sprints do Projeto
 
-O projeto será realizado em **4 Sprints**, com entregas contínuas de código e documentação.
+O projeto será realizado em **4 Sprints**, com entregas contínuas de código e documentação, além de um marco focado em usabilidade.
 
 ---
 
@@ -52,8 +52,15 @@ O projeto será realizado em **4 Sprints**, com entregas contínuas de código e
 
 ---
 
+### 🟣 Milestone Específico – Teste de Usabilidade (UX)
+- Aplicação do Teste SUS com usuários reais
+- Avaliação das telas desenvolvidas nas Sprints 2 e 3
+- Preenchimento do Relatório de Usabilidade (Seção 6)
+
+---
+
 ### 🔴 Sprint 4 – Finalização e Deploy
-- Correção de bugs
+- Correção de bugs apontados no Teste de UX e Code Review
 - Testes finais ponta a ponta
 - Documentação final consolidada
 - Relatório preenchido no APC
@@ -66,21 +73,17 @@ O projeto será realizado em **4 Sprints**, com entregas contínuas de código e
 Todos programam.  
 Os papéis abaixo são apenas para organização do time.
 
-- 👨‍💻 **Tech Lead (Git Master)**  
-  Responsável pelo repositório e merges.
+- 👨‍💻 **Tech Lead (Git Master)** Responsável pelo repositório e merges.
 
-- 🗄️ **Arquiteto de Dados (DBA Guard)**  
-  Responsável pela modelagem e padronização do banco.
+- 🗄️ **Arquiteto de Dados (DBA Guard)** Responsável pela modelagem e padronização do banco.
 
-- 🧪 **Gerente de Qualidade (QA & Code Reviewer)**  
-  Responsável por revisar código e validar testes.
+- 🧪 **Gerente de Qualidade (QA & Code Reviewer)** Responsável por revisar código e validar testes de usabilidade.
 
-- 📋 **Facilitador Ágil (PO / Scrum Master)**  
-  Responsável por prazos, Kanban e priorização do backlog.
+- 📋 **Facilitador Ágil (PO / Scrum Master)** Responsável por prazos, Kanban e priorização do backlog.
 
 ---
 
-## ✏️ Definição dos Papéis – Sprint 1
+##  Definição dos Papéis – Sprint 1
 
 - 👨‍💻 Tech Lead:
 - 🗄️ Arquiteto de Dados:
@@ -91,7 +94,7 @@ Os papéis abaixo são apenas para organização do time.
 
 ---
 
-# 📊 2.2 Execução e Controle
+# 2.2 Execução e Controle
 
 ## 🗂️ Kanban (OBRIGATÓRIO)
 
@@ -122,7 +125,7 @@ O projeto deve utilizar a aba **Projects** do GitHub.
 
 # 📋 Acompanhamento das Sprints
 
-## 📌 Legenda de Status
+## Legenda de Status
 
 - [x] ✔️ Concluído
 - [ ] 📝 Em andamento
@@ -164,11 +167,20 @@ O projeto deve utilizar a aba **Projects** do GitHub.
 
 ---
 
+# 🟣 Milestone – Teste de Usabilidade (UX)
+
+| Responsável | Papel | Tarefa | Início | Prazo | Status |
+|-------------|--------|--------|--------|--------|--------|
+|             |        | Aplicar roteiro de teste com usuários reais | 24/04 | 15/05 | ❌ |
+|             |        | Consolidar dados e preencher Seção 6 do template | 16/05 | 22/05 | ❌ |
+
+---
+
 # 🔴 Sprint 4 – Finalização
 
 | Responsável | Papel | Tarefa | Início | Prazo | Status |
 |-------------|--------|--------|--------|--------|--------|
-|             |        | Correção de bugs | 22/05 | 05/06 | ❌ |
+|             |        | Correção de bugs de usabilidade e Code Review | 22/05 | 05/06 | ❌ |
 |             |        | Finalizar relatórios e dashboards | 01/06 | 15/06 | ❌ |
 |             |        | Preencher Relatório APC | 10/06 | 20/06 | ❌ |
 |             |        | Testes finais e consolidar README | 15/06 | 25/06 | ❌ |
