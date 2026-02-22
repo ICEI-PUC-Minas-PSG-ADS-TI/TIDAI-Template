@@ -1,80 +1,61 @@
 # 6. Teste de Usabilidade do Software
-<span style="color:red">Pré-requisitos: <a href="5-Interface-Sistema.md"> Interface do Sistema</a></span>
 
-> Nesta seção, abordaremos a realização do teste de usabilidade do software, uma etapa fundamental no processo de desenvolvimento de sistemas. O teste de usabilidade visa avaliar a eficácia, eficiência e a satisfação do usuário ao interagir com o sistema, garantindo que a interface e as funcionalidades atendam às necessidades do público-alvo.
+> 🎯 **Momento da Entrega:** Este teste deve ser realizado e documentado no dia **22/05** (entre a Sprint 3 e a Sprint 4), avaliando as telas já produzidas até o momento.
 
-> A professora irá fornecer um template durante a Sprint que será realizada o Teste de Usabilidade. 
+Nesta seção, abordaremos a realização do teste de usabilidade do software. O teste visa avaliar a eficácia, eficiência e a satisfação do usuário ao interagir com o sistema, garantindo que a interface e as funcionalidades atendam às necessidades do público-alvo. <br> <br>
+
+- 📝 **Nota:** A CTO (Professora) fornecerá um template de roteiro (em Word) para auxiliar na condução das entrevistas. Os resultados finais desse teste devem ser consolidados e digitados abaixo, substituindo os exemplos.
+
+---
 
 ## 6.1 Introdução
-Breve descrição da aplicação testada e do objetivo do teste.
 
-````diff
-EXEMPLO
-- O sistema testado foi um site de compras de eletrônicos. 
-+ O objetivo era avaliar se os usuários conseguiam navegar facilmente pelas categorias de produtos e finalizar uma compra sem dificuldades. 
-````
+Breve descrição da aplicação testada e do objetivo do teste.<br>
+> **EXEMPLO:** *O sistema testado foi um site de compras de eletrônicos. O objetivo era avaliar se os usuários conseguiam navegar facilmente pelas categorias de produtos e finalizar uma compra sem dificuldades.*
 
-## 6.2 Problema
+✏️ **Preencha aqui com a introdução do teste do seu Squad:** (Digite seu texto aqui)
 
-Explicação sobre os participantes, cenários e tarefas utilizadas.
+---
+## 6.2 Metodologia (Participantes e Tarefas)
 
-````diff
-EXEMPLO 
-- Participaram do teste cinco usuários com perfis variados, incluindo um usuário iniciante em tecnologia. 
-+ Foram propostas tarefas como: criar uma conta, buscar um produto específico e concluir uma compra. 
-````
+Explicação sobre o perfil dos participantes, os cenários criados e as tarefas solicitadas.<br>
+> **EXEMPLO:** *Participaram do teste 5 usuários com perfis variados, incluindo um usuário iniciante em tecnologia. Foram propostas as seguintes tarefas: 1) Criar uma conta; 2) Buscar um produto específico; 3) Concluir uma compra.*
 
+✏️ **Preencha aqui com a metodologia do seu Squad:** (Digite seu texto aqui)
 
+---
 ## 6.3 Resultados
 
-Dados coletados, dificuldades identificadas e principais descobertas.
+Dados coletados, dificuldades identificadas e principais descobertas. <br>
+> **EXEMPLO:** *Dos cinco participantes, três tiveram dificuldades para encontrar o botão 'Finalizar Compra'. O tempo médio para realizar uma compra foi de 4 minutos e 30 segundos. Dois participantes não conseguiram concluir a compra sem ajuda.*
 
-````diff
-EXEMPLO
-- Dos cinco participantes, três tiveram dificuldades para encontrar o botão 'Finalizar Compra'. 
-+ O tempo médio para realizar uma compra foi de 4 minutos e 30 segundos. Dois participantes não conseguiram concluir a compra sem ajuda. 
-````
+✏️ **Preencha aqui com os resultados obtidos pelo seu Squad:** (Digite seu texto aqui)
 
-## 6.4 Sugestões de melhoria 
+---
+## 6.4 Sugestões de Melhoria
 
-Lista de recomendações para aprimoramento da aplicação.
+Lista de recomendações para aprimoramento da aplicação (o que o grupo vai corrigir na Sprint 4). Utilize o sinal (+) para pontos positivos mantidos e (-) para problemas que precisam de correção. <br>
+> **EXEMPLO:**
+> * (-) Recomenda-se tornar o botão 'Finalizar Compra' mais visível, aumentar o contraste da cor e fixá-lo no rodapé.
+> * (+) O fluxo de cadastro de usuário foi elogiado por ser rápido e ter poucos campos, devendo ser mantido assim.
 
+✏️ **Preencha aqui com as sugestões de melhoria do seu Squad:** (Digite seu texto aqui)
 
-````diff
-EXEMPLO
-+ Recomenda-se tornar o botão 'Finalizar Compra' mais visível, aumentar o contraste da cor e alterar seu posicionamento para
-facilitar a localização pelo usuário.
-+ mais coisas positivas se tiver para falar sobre o teste
-- se tiver coisas negativas use o sinal (-)
-````
+---
+## 6.5 Registro Audiovisual (Evidências)
 
-## 6.5 Registro audiovisual (opcional)
+Imagens (prints) ou links para vídeos curtos das interações dos usuários, ilustrando as dificuldades e os pontos positivos da interface. A comprovação da realização do teste é **obrigatória**.
+> **EXEMPLO:** *![Erro no Check-out](images/teste_erro_botao.png) - Captura de tela mostrando onde os usuários esperavam encontrar o botão 'Finalizar Compra' e onde ele realmente estava.*
 
-Vídeos curtos ou prints das interações dos usuários, ilustrando dificuldades e pontos positivos da interface.
+✏️ **Insira aqui as evidências visuais do teste do seu Squad:** (Insira as imagens ou links aqui)
 
-````diff
-EXEMPLO 
-+ Captura de tela mostrando onde os usuários esperavam encontrar o botão 'Finalizar Compra' e onde ele realmente estava.
+---
+## 6.6 Tabela Comparativa (Opcional)
+Comparação entre a expectativa do grupo desenvolvedor e a realidade do usuário em cada tarefa. Destaque das principais dificuldades enfrentadas.
 
-````
+*(Exemplo de Tabela:)*
+| Tarefa | Expectativa do Squad | Realidade do Usuário |
+| :--- | :--- | :--- |
+| **Criar conta** | Processo simples, feito em até 2 minutos | Um usuário levou mais de 5 minutos devido à falta de instruções claras na senha. |
 
-
-## 6.7 Tabela comparativa (opcional):
-
-Comparação entre expectativa e realidade em cada tarefa.
-Destaque das principais dificuldades enfrentadas.
-
-````diff
-EXEMPLO 
-````
-| Tarefa           |  Expectativa                            |  Realidade                                                                  |
-|------------------|-----------------------------------------|-----------------------------------------------------------------------------|
-|Criar conta       | Processo simples, em até 2 minutos      | Um usuário levou mais de 5 minutos devido à falta de instruções claras      |
-|Buscar produto    | Encontro rápido com filtros eficientes  | Dois participantes tiveram dificuldades para encontrar a categoria correta  |
-|Finalizar compra  | Processo intuitivo                      | Três usuários não localizaram o botão de finalização                        |
-
-
-
-
-
-
+✏️ **Crie ou modifique a tabela comparativa do seu Squad abaixo (Opcional):**
