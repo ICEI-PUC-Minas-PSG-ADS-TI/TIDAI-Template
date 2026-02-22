@@ -1,5 +1,5 @@
 
-# 📑 3. Especificações do Projeto
+# 3. Especificações do Projeto
 
 📌 **Pré-requisito:** Planejamento do Projeto (Cronograma e Sprints definidos).
 
@@ -14,7 +14,7 @@ O objetivo é organizar claramente as funcionalidades, qualidades e limites da s
 
 ---
 
-# 🔷 3.1 Requisitos Funcionais
+# 3.1 Requisitos Funcionais
 
 Os **Requisitos Funcionais (RF)** descrevem o que o sistema deve fazer.
 
@@ -25,7 +25,7 @@ Os **Requisitos Funcionais (RF)** descrevem o que o sistema deve fazer.
 
 ---
 
-## 📋 Tabela de Requisitos Funcionais
+## Tabela de Requisitos Funcionais
 
 | ID    | Descrição do Requisito | Prioridade |
 |-------|------------------------|------------|
@@ -42,7 +42,7 @@ Os **Requisitos Funcionais (RF)** descrevem o que o sistema deve fazer.
 
 ---
 
-# 🔷 3.2 Histórias de Usuário
+# 3.2 Histórias de Usuário
 
 Cada história deve seguir o padrão ensinado na disciplina:
 
@@ -55,7 +55,7 @@ Cada História de Usuário deve estar associada a um Requisito Funcional especí
 
 ---
 
-## 📌 Exemplos
+## Exemplos
 
 **História 1 (relacionada ao RF-01):**  
 Como usuário, quero registrar minhas tarefas para não esquecer de fazê-las.
@@ -65,7 +65,7 @@ Como administrador, quero alterar permissões para controlar o acesso ao sistema
 
 ---
 
-## ✏️ Histórias do Projeto
+## Histórias do Projeto
 
 ---
 
@@ -97,7 +97,7 @@ Para que _______________________________________
 
 ---
 
-# 🔷 3.3 Requisitos Não Funcionais
+# 3.3 Requisitos Não Funcionais
 
 Os **Requisitos Não Funcionais (RNF)** definem características de qualidade do sistema, como:
 
@@ -111,7 +111,7 @@ Eles garantem a qualidade da solução.
 
 ---
 
-## 📋 Tabela de Requisitos Não Funcionais
+## Tabela de Requisitos Não Funcionais
 
 | ID     | Descrição do Requisito | Prioridade |
 |--------|------------------------|------------|
@@ -124,7 +124,7 @@ Eles garantem a qualidade da solução.
 
 ---
 
-# 🔷 3.4 Restrições do Projeto
+# 3.4 Restrições do Projeto
 
 📌 **Restrições** são limitações externas impostas ao projeto.
 
@@ -139,7 +139,7 @@ Elas podem envolver:
 
 ---
 
-## 📋 Tabela de Restrições
+## Tabela de Restrições
 
 | ID  | Restrição |
 |-----|-----------|
@@ -165,7 +165,6 @@ Antes de entregar, confirme:
 - [ ] O documento está atualizado no GitHub  
 
 ---
-
 
 
 
