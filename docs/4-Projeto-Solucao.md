@@ -16,12 +16,11 @@ A arquitetura deve refletir o modelo de **fatias verticais**, evidenciando o flu
 
 **Front-end → API (Back-end) → Banco de Dados**
 
-📌 O diagrama deve representar:
-- Camada de Apresentação
-- Camada de Aplicação / API
-- Camada de Persistência
-- Comunicação entre camadas
+Semelhante à imagem abaixo:
 
+![Exemplo de Arquitetura](https://via.placeholder.com/800x400.png?text=Exemplo+de+Diagrama+de+Arquitetura)
+
+> **Fonte:** [Guia Completo de Desenvolvimento de Software - UDS](https://uds.com.br/blog/desenvolvimento-de-software-guia-completo/)
 ### 📎 Inserir o Diagrama de Arquitetura do Projeto do Grupo
 🚨 O grupo deverá inserir aqui a imagem
 
