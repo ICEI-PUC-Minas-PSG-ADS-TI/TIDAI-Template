@@ -18,10 +18,13 @@ A arquitetura deve refletir o modelo de **fatias verticais**, evidenciando o flu
 
 Semelhante à imagem abaixo:
 
-![Exemplo de Arquitetura](https://via.placeholder.com/800x400.png?text=Exemplo+de+Diagrama+de+Arquitetura)
+![Exemplo de Arquitetura](https://uds.com.br/blog/wp-content/uploads/2024/09/Imagem-1-Comparativo-ilustrativo-das-diferencas-entre-front-end-e-back-end.jpg)
 
-> **Fonte:** [Guia Completo de Desenvolvimento de Software - UDS](https://uds.com.br/blog/desenvolvimento-de-software-guia-completo/)
-### 📎 Inserir o Diagrama de Arquitetura do Projeto do Grupo
+
+
+ **Fonte:** [Guia Completo de Desenvolvimento de Software - UDS](https://uds.com.br/blog/desenvolvimento-de-software-guia-completo/) <br><br>
+ 
+ ### 📎 Inserir o Diagrama de Arquitetura do Projeto do Grupo
 🚨 O grupo deverá inserir aqui a imagem
 
 
@@ -140,7 +143,7 @@ O arquivo .sql ou .js deve ser salvo na pasta: src/bd
  - É permitido colar um trecho do script no README apenas para visualização rápida.
  
 ---
-### 🗄️ 4.4.2 Representação do Modelo Físico de Dados (Entrega na Sprint 3 - Core)
+### 4.4.2 Representação do Modelo Físico de Dados (Entrega na Sprint 3 - Core)
 
 
 > **Fundamentação:** Os modelos de dados físicos fornecem detalhes minuciosos que auxiliam administradores e desenvolvedores na implementação da lógica de negócios em um banco de dados real.
