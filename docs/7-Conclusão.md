@@ -1,34 +1,26 @@
 
-## 7. Conclusão
+# 7. Conclusão
 
-<span style="color:red">**Pré-requisito:** Ter concluído o desenvolvimento do projeto.</span>  
+> ⚠️ **Aviso aos Squads:**
+> Esta seção deve ser preenchida ao final do projeto (Sprint 4). É o momento de refletir sobre o software entregue, o impacto gerado e os aprendizados da equipe.<br>
+---
+## 7.1 Síntese dos Resultados
+O software construído resolveu o problema inicial? Como ele se conecta com a ODS (Objetivo de Desenvolvimento Sustentável) escolhida lá na Sprint 1? Faça um resumo dos principais impactos positivos gerados pela solução.<br><br>
 
-**Instruções:** Substitua os textos em **[colchetes]** pelas informações do projeto de software do seu grupo.
+> **EXEMPLO:** *A plataforma reduziu o tempo de agendamento de 8 para 3 minutos, digitalizando um processo que antes era feito no papel. Com isso, o projeto atendeu à ODS 3 (Saúde e Bem-estar), facilitando o acesso da comunidade aos serviços da clínica.*
+
+✏️ **Preencha com a síntese do seu Squad:** (Digite seu texto aqui)
 
 ---
-## Quadro para Preenchimento da Conclusão do Grupo
+## 7.2 Limitações e Trabalhos Futuros
+Nenhum software nasce perfeito. Quais foram as limitações técnicas ou de escopo enfrentadas pelo grupo? O que vocês sugerem como melhoria para uma futura "Versão 2.0" do sistema?<br><br>
 
-| Item | Informação do grupo |
-|------|-------------------|
-| **Síntese dos principais resultados obtidos** | *[Descreva, de forma resumida, quais melhorias foram alcançadas com a solução desenvolvida. Ex.: aumento de eficiência, redução de erros, otimização de tempo.]* |
-| **Limitações da solução proposta** |  *[Liste as limitações encontradas durante o desenvolvimento ou uso da solução. Ex.: recursos técnicos limitados, escopo restrito, dependência de infraestrutura.]* |
-| **Sugestões para estudos futuros** |  *[Indique possíveis melhorias, funcionalidades adicionais ou pesquisas que possam ser feitas para aprimorar a solução.]* |
-| **Eficiência (teste de usabilidade)** |  *[Explique como a solução ajudou a realizar tarefas de forma mais rápida e precisa. Inclua números ou percentuais, se houver.]* |
-| **Eficácia (teste de usabilidade)** |  *[Explique se os objetivos propostos foram atingidos e de que forma.]* |
-| **Satisfação do usuário (teste de usabilidade)** |  *[Inclua as percepções dos usuários, apontando o que foi mais elogiado e o que pode melhorar.]* |
-| **Resumo final** |  *[Faça um parágrafo final reforçando os impactos positivos da solução e destacando as áreas que ainda podem ser aprimoradas.]* |
+> **EXEMPLO:** *Como limitação técnica, o sistema atual não possui uma versão mobile otimizada (responsividade completa). Para trabalhos futuros, sugerimos a criação de um aplicativo nativo e a integração com um sistema de recomendação por IA.*
+
+✏️ **Preencha com as limitações e próximos passos do seu Squad:** (Digite seu texto aqui)
 
 ---
+## 7.3 Lições Aprendidas
+Como foi a experiência de atuar como uma *Software House* utilizando Fatias Verticais? Quais foram os maiores desafios técnicos (ex: Banco de Dados, Integração de API, versionamento no Git) e como a equipe os superou?<br><br>
 
-## EXEMPLOS DE CONCLUSÕES
-
-| Item | Exemplo 1 – Comércio eletrônico | Exemplo 2 – Área da saúde |
-|------|-------------------------------|---------------------------|
-| **Síntese dos principais resultados obtidos** | A nova plataforma de vendas reduziu o tempo de finalização de compra de 7 para 4 minutos e aumentou as vendas em 30%. | O sistema de agendamento online reduziu em 50% as ligações telefônicas e melhorou a organização de consultas. |
-| **Limitações** | Falta de otimização para dispositivos móveis. | Dificuldade de uso para pacientes idosos. |
-| **Sugestões para estudos futuros** | Implementar versão responsiva e integração com sistema de recomendação de produtos. | Criar tutorial em vídeo e suporte via chat. |
-| **Eficiência** | Redução de 42% no tempo de checkout. | Tempo médio para agendar consulta caiu de 8 para 3 minutos. |
-| **Eficácia** | Todas as metas de melhoria no processo de compra foram alcançadas. | Redução de atrasos e melhor distribuição da agenda médica. |
-| **Satisfação do usuário** | 85% dos clientes relataram experiência positiva. | 90% dos pacientes aprovaram a facilidade de agendamento. |
-| **Resumo final** | A solução trouxe ganhos significativos de velocidade e conversão, mas a experiência mobile ainda precisa ser aprimorada. | A solução digitalizou com sucesso o processo de agendamento, mas precisa ser mais inclusiva para todos os perfis de usuário. |
-
+✏️ **Preencha com os aprendizados do seu Squad:** (Digite seu texto aqui)
