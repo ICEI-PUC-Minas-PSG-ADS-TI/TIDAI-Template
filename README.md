@@ -4,7 +4,7 @@
 
 `DISCIPLINA`: DESENVOLVIMENTO DE APLICAÇÃO INTERATIVA
 
-`SEMESTRE`: 1/2025
+`SEMESTRE`: 1/2026
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
