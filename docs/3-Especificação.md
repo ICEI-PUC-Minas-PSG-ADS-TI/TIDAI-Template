@@ -146,18 +146,6 @@ Abaixo, liste as regras de negócio identificadas no projeto:
 | **RN 03** | | |
 | **RN 04** | | |
 
----
-
-## 3.5 Restrições do Projeto
-
-📌 Restrições são limitações externas impostas ao projeto. 
-
-Elas podem envolver:
-*   📅 Prazo
-*   🖥️ Tecnologia obrigatória ou proibida
-*   🌐 Ambiente de execução
-*   📜 Normas legais
-*   🏢 Políticas institucionais
 
 ⚠️ **Diferente dos RNFs, as restrições impõem limites fixos ao projeto.**
 
