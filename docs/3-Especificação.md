@@ -124,48 +124,44 @@ Eles garantem a qualidade da solução.
 
 ---
 
-# 3.4 Restrições do Projeto
+## 3.4 Regras de Negócio
 
-📌 **Restrições** são limitações externas impostas ao projeto.
+As regras de negócio definem as diretrizes, políticas corporativas e condições lógicas que determinam como o sistema deve se comportar em situações específicas, independentemente da tecnologia utilizada. Elas traduzem as necessidades e restrições do mundo real para o software.
+
+Para garantir a clareza, a equipe pode estruturar essas regras utilizando blocos lógicos condicionais (baseado nos conceitos apresentados pela [Alura](https://www.alura.com.br/artigos/o-que-sao-regras-de-negocio)):
+
+*   **if/then (se/então):** Se determinada condição for verdadeira, então será tomada determinada ação.
+    *   *Caso de uso:* “Se um usuário tem saldo na conta acima de X, a opção de empréstimo estará liberada.”
+*   **if/else (se/senão):** Se determinada condição for verdadeira, o resultado será X; senão, o resultado será Y.
+    *   *Caso de uso:* “Se o CEP do usuário for 35XXX-XX o frete é gratuito; em qualquer outro caso, fazer o cálculo do frete.”
+*   **only if (apenas se):** Apenas se determinada condição for verdadeira, será tomada determinada ação.
+    *   *Caso de uso:* “Apenas usuários cadastrados como gerentes poderão acessar a área de admin do sistema.”
+
+Abaixo, liste as regras de negócio identificadas no projeto:
+
+| ID | Descrição da Regra de Negócio | Formato Lógico |
+| :--- | :--- | :--- |
+| **RN 01** | (Descreva a regra de negócio do seu projeto) | (Ex: if/then) |
+| **RN 02** | | |
+| **RN 03** | | |
+| **RN 04** | | |
+
+---
+
+## 3.5 Restrições do Projeto
+
+📌 Restrições são limitações externas impostas ao projeto. 
 
 Elas podem envolver:
-- 📅 Prazo
-- 🖥️ Tecnologia obrigatória ou proibida
-- 🌐 Ambiente de execução
-- 📜 Normas legais
-- 🏢 Políticas institucionais
+*   📅 Prazo
+*   🖥️ Tecnologia obrigatória ou proibida
+*   🌐 Ambiente de execução
+*   📜 Normas legais
+*   🏢 Políticas institucionais
 
-⚠️ Diferente dos RNFs, as restrições impõem **limites fixos** ao projeto.
-
----
-
-## Tabela de Restrições
-
-| ID  | Restrição |
-|-----|-----------|
-| R-01 | O projeto deverá ser entregue até o final do semestre. |
-| R-02 | O sistema deve funcionar apenas dentro da rede interna da empresa. |
-| R-03 | O software deve ser compatível com Windows e Linux. |
-| R-04 | (Descreva aqui a restrição 4 do seu projeto) |
-| R-05 | (Descreva aqui a restrição 5 do seu projeto) |
-| R-06 | (Descreva aqui a restrição 6 do seu projeto) |
-| R-07 | (Descreva aqui a restrição 7 do seu projeto) |
-| R-08 | (Descreva aqui a restrição 8 do seu projeto) |
+⚠️ **Diferente dos RNFs, as restrições impõem limites fixos ao projeto.**
 
 ---
-
-# ✅ Checklist de Validação
-
-Antes de entregar, confirme:
-
-- [ ] Todos os RFs estão claros e numerados corretamente  
-- [ ] Todas as Histórias estão associadas a um RF  
-- [ ] RNFs estão mensuráveis  
-- [ ] Restrições são realmente limitações externas  
-- [ ] O documento está atualizado no GitHub  
-
----
-
 
 
 > **Links Úteis**:
